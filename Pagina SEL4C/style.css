@@ -181,7 +181,11 @@ header h1 {
     font-family: Montserrat, ExtraBold;
     font-size: 80px;
 }
-
+.bigger-text {
+    font-family: Montserrat, ExtraBold;
+    font-size: 100px;
+    align-items: center;
+}
 .small-text {
     font-family: Montserrat, Regular;
     color: #ccc;
