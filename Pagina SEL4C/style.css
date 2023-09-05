@@ -203,7 +203,20 @@ header h1 {
     height: auto;
     margin-left: 20px; /* Ajusta el margen izquierdo para mover la imagen hacia la izquierda */
 }
-
-
-
+.titleContact {
+    position: absolute;
+    left: 20%;
+    top: 50%;
+    font-size: 100px;
+    transform: translate(-50%, -50%);
+    text-align: center; /* Alineación del texto al centro horizontalmente */
+  }
+  .textContact {
+    position: absolute;
+    left: 20%;
+    top: 65%;
+    font-size: 30px;
+    transform: translate(-50%, -50%);
+    text-align: center; /* Alineación del texto al centro horizontalmente */
+  }
 
